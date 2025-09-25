@@ -1,1 +1,2 @@
-# Pertemuan-Enam-PBO-23-09-2025
+# Dialogue
+Pada kali ini masih sama dengan pertemuan 5, yaitu JDBC (Java Database Connectivity) dengan Java GUI. Tetapi kali ini juga disertakan dengan dialogue. Dialogue sendiri adalah jendela pop-up kecil yang digunakan untuk berinteraksi dengan pengguna, seperti menampilkan pesan, meminta input, atau meminta konfirmasi, dan biasanya bersifat modal sehingga memblokir interaksi dengan jendela aplikasi utama.
